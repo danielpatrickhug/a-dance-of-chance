@@ -34,6 +34,9 @@ In the dance of chance, a mindful embrace,
 The beauty of uncertainty, in this sacred space.
 ```
 
+
 ```
-In graphs we seek, a way to see, Connections strong, from node to node for free. With spectral kernel here we find, A matrix of embeddings that binds, The vertices close, for all to see, A web of relations, plain as can be.
+In graphs we seek, a way to see, Connections strong, from node to node for free. 
+With spectral kernel here we find, A matrix of embeddings that binds, 
+The vertices close, for all to see, A web of relations, plain as can be.
 ```
